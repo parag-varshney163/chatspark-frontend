@@ -1,7 +1,7 @@
 import React from "react";
 import { LogIn } from "lucide-react";
 import { motion } from "framer-motion";
-import colors from "../constants/colors"; // ✅ inside src
+import colors from "../constants/colors";
 import { useNavigate } from "react-router-dom";
 
 const WelcomePage = () => {
